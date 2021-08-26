@@ -9,7 +9,7 @@ broad,  which is one of its appeals -- security issues arise in any area, and
 security is hard. 
  
 
-Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
+Instructor: Tom Ristenpart (he/him) (https://rist.tech.cornell.edu)
 
 Office hours: By appointment
 
