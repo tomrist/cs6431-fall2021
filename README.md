@@ -19,16 +19,17 @@ Office hours: By appointment
 PhD classes taught by Cornell Tech instructors, including this one, are
 broadcast to both Cornell campuses, in NYC and Ithaca.  Protocols for masking
 and other COVID-19 precautions will follow those rules at the respective campus.
-Wear a mask and don't come in if feeling ill, please!
+Wear a mask and don't come in if feeling ill, please! If you have concerns about
+COVID-19 safety feel free to reach out to me. 
 
 Note that the Gates hall room was changed from G11 to G13, which is slightly
 bigger. 
 
 A zoom link will be shared via Canvas. I might occassionally deliver lectures
-remotely over zoom, and will announce that via the schedule (see below). The
-default will be in-person instruction from NYC. Please attend class in-person when
-I'm teaching in-person; please let me know if you need to attend remotely. If
-so, the default should be camera on. 
+remotely using the same zoom link, and will announce that via the schedule (see
+below). The default will be in-person instruction from NYC. Please attend class
+in-person when I'm teaching in-person; please let me know if you need to attend
+remotely. If so, the default should be camera on. 
 
 That said, I should be able to monitor Zoom chat in case students want to ask
 questions or make comments, in addition to raising hands during class. This may
@@ -64,7 +65,19 @@ experiment a bit with the AV setup.
 
 Problem sets will be on topics discussed in papers, and will test your
 understanding of the papers. I will not grade these in detail, but rather
-randomly spot check them and take off points in case you don't. Late days will
+perform random spot checks to ensure appropriate effort. Late days will
 be allowed if I haven't gotten around to spot checking yet. 
+
+The project will be the biggest piece of this class; the class is, after all, an
+introduction to research in computer security. Projects can be in small groups
+that will depend on final enrollment. I will update the schedule with
+information on due dates. 
+
+
+
+### Schedule
+
+The evolving schedule is available [here](https://docs.google.com/spreadsheets/d/1_4J0jLE9qVaiQca2YDqa_FD1-4LPAtcI8COa9IhFuOM/edit?usp=sharing).
+
 
 
