@@ -76,7 +76,7 @@ information on due dates.
 
 ### Project
 
-See [this PDF](https://github.com/tomrist/cs6431-fall2021/project.pdf) for a discussion of project and deliverables. It may still be
+See [this PDF](https://github.com/tomrist/cs6431-fall2021/blob/main/project.pdf) for a discussion of project and deliverables. It may still be
 updated, ask me if you have questions.
 
 
