@@ -74,6 +74,11 @@ that will depend on final enrollment. I will update the schedule with
 information on due dates. 
 
 
+### Project
+
+See [this PDF](https://github.com/tomrist/cs6431-fall2021/project.pdf) for a discussion of project and deliverables. It may still be
+updated, ask me if you have questions.
+
 
 ### Schedule
 
