@@ -59,7 +59,7 @@ during class for small group discussions on papers, though we may have to
 experiment a bit with the AV setup.  
 
 * Class participation:  20% 
-* Problem sets: 20%
+* ~~Problem sets~~ Project proposal and project reviews: 20%
 * Project proposal: 20%
 * Project: 40%
 
